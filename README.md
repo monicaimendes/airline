@@ -1,6 +1,6 @@
 # Airline
 
-A web application built with Django for learning about the framework, how to use the /admin endpoint and the built-in tests.
+A web application built with Django for learning about the framework, how to use the ```/admin``` endpoint and the built-in tests.
 
 ## 🚀 Features
 
